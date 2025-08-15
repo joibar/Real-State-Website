@@ -93,12 +93,6 @@ The application uses a comprehensive database schema with the following main ent
 - **Leads**: Customer inquiries and contact requests
 - **Favorites**: User saved properties
 
-## 🔐 Authentication
-
-Currently using a simple admin user:
-- **Email**: admin@realestate.com
-- **Password**: admin123
-
 ## 🎨 Design System
 
 The application uses a consistent design system with:
@@ -168,7 +162,3 @@ For support and questions:
 - Create an issue in the repository
 - Contact the development team
 - Check the documentation
-
----
-
-**Built with ❤️ using Next.js, TypeScript, and Tailwind CSS**
